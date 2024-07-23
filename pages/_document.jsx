@@ -10,7 +10,7 @@ export default function Document() {
       <Head>
         {/* <title>pranjal ✦ developer, designer</title> */}
         <meta name="title" content="Vishwanath Reddy Koppula" />
-        <meta name="description" content="Developer" />
+        <meta name="description" content="Portfolio" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
@@ -18,7 +18,7 @@ export default function Document() {
         <meta property="og:title" content="Vishwanath Reddy Koppula" />
         <meta
           property="og:description"
-          content="Developer"
+          content="Portfolio"
         />
         <meta
           property="og:image"
@@ -29,7 +29,7 @@ export default function Document() {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
+          content=""
         />
         <meta
           property="twitter:title"
@@ -37,34 +37,34 @@ export default function Document() {
         />
         <meta
           property="twitter:description"
-          content="Developer // Designer // Weeb"
+          content="Portfolio"
         />
         <meta
           property="twitter:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content=""
         />
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="pranjal ✦ developer, designer" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:site_name" content="Vishwanath Reddy Koppula" />
+        <meta property="og:title" content="Vishwanath Reddy Koppula" />
         <meta
           property="og:description"
-          content="Developer // Designer // Weeb"
+          content="Portfolio"
         />
         <meta
           property="og:image"
           itemprop="image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content=""
         />
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="" />
         <link
           rel="search"
           href="/opensearch.xml"
           type="application/opensearchdescription+xml"
-          title="pranjal ✦ developer, designer"
+          title="Portfolio"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
